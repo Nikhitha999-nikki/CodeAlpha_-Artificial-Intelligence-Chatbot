@@ -1,0 +1,5 @@
+hi=Hello! How can I assist you?
+hello=Hi there! What can I do for you?
+how are you=I'm just a bot, but I'm functioning as expected!
+what is your name=I'm your AI chatbot assistant.
+bye=Bye! Have a great day.
